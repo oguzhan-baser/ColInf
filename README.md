@@ -11,3 +11,4 @@ After building the environment and selecting it, run the following jupyter noteb
 1- generateEnvToy.ipynb to see the results for differentially private noise in MNIST image and histograms  
 2- optimization.ipynb to see the boxplot results shown in the paper  
 3- generalImp.ipynb to see the concave utility results shown in the paper  
+![](./figures/pipeline.PNG)
