@@ -1,0 +1,16 @@
+dataset_info:
+  initial_distribution_generator: np.array([1 for i in range(params['dataset_info']['n_class'])])
+  n_class: 10
+  test_ratio: 0.2
+  val_ratio: 0.2
+testing:
+  device: cuda:0
+  test_b_size: 64
+training:
+  b_size: 1000
+  convergence_threshold: 0.005
+  device: cuda:0
+  lr: 0.001
+  max_epochs: 200
+  n_class: 10
+  n_epoch: 200
