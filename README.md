@@ -1,4 +1,4 @@
-# The Advanced Computer Vision Project Repository
+# Collaborative Inference Games
 ## How to build the environment
 conda env create -f environment.yml
 ## How to build datasets corresponding to different hardness levels referring to robot's operational region
